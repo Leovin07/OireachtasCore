@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{E4367766-A452-43C8-8A34-60F76F134041}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestCases PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OireachtasCore PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

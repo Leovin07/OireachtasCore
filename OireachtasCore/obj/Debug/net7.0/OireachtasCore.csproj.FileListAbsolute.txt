@@ -1,0 +1,15 @@
+/Users/joeleovin/Projects/OireachtasCore/OireachtasCore/obj/Debug/net7.0/OireachtasCore.csproj.AssemblyReference.cache
+/Users/joeleovin/Projects/OireachtasCore/OireachtasCore/obj/Debug/net7.0/OireachtasCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joeleovin/Projects/OireachtasCore/OireachtasCore/obj/Debug/net7.0/OireachtasCore.AssemblyInfoInputs.cache
+/Users/joeleovin/Projects/OireachtasCore/OireachtasCore/obj/Debug/net7.0/OireachtasCore.AssemblyInfo.cs
+/Users/joeleovin/Projects/OireachtasCore/OireachtasCore/obj/Debug/net7.0/OireachtasCore.csproj.CoreCompileInputs.cache
+/Users/joeleovin/Projects/OireachtasCore/OireachtasCore/bin/Debug/net7.0/OireachtasCore
+/Users/joeleovin/Projects/OireachtasCore/OireachtasCore/bin/Debug/net7.0/OireachtasCore.deps.json
+/Users/joeleovin/Projects/OireachtasCore/OireachtasCore/bin/Debug/net7.0/OireachtasCore.runtimeconfig.json
+/Users/joeleovin/Projects/OireachtasCore/OireachtasCore/bin/Debug/net7.0/OireachtasCore.dll
+/Users/joeleovin/Projects/OireachtasCore/OireachtasCore/bin/Debug/net7.0/OireachtasCore.pdb
+/Users/joeleovin/Projects/OireachtasCore/OireachtasCore/obj/Debug/net7.0/OireachtasCore.dll
+/Users/joeleovin/Projects/OireachtasCore/OireachtasCore/obj/Debug/net7.0/refint/OireachtasCore.dll
+/Users/joeleovin/Projects/OireachtasCore/OireachtasCore/obj/Debug/net7.0/OireachtasCore.pdb
+/Users/joeleovin/Projects/OireachtasCore/OireachtasCore/obj/Debug/net7.0/OireachtasCore.genruntimeconfig.cache
+/Users/joeleovin/Projects/OireachtasCore/OireachtasCore/obj/Debug/net7.0/ref/OireachtasCore.dll
